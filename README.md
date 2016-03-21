@@ -37,7 +37,7 @@ Depois responda essas perguntas aqui no post para a marca WebDev.
 - Quais conteúdos deveriam ter nesse site?
 
 ### WEBDEV STYLE GUIDE
-*desafio 2*
+*Desafio 2*
 
 Muitas vezes programação pode parecer, para o usuário final, que nem mágica. Isso acontece, pois apenas o resultado final é exibido, é impossível o usuário saber quais algoritmos e funções foram executadas. Então como um usuário comum, que não tem acesso ao código, pode distinguir uma aplicação boa de uma ruim?
 
