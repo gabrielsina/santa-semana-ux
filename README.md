@@ -60,14 +60,20 @@ Boa sorte e qualquer dúvida não hesite em perguntar! :smile:
 * Ferramentas e Demos
   * Type Datting Game http://www.typeconnection.com/
   * Golden Ratio Typography Calculator - Calcule o Tamanho da Fonte http://www.pearsonified.com/typography/ 
-* Biblioteca de Fontes
+  * Para criar packs de fontes e aplicar o @font-face no CSS http://www.fontsquirrel.com/
+* Biblioteca
   * https://www.google.com/fonts
+  * http://typement.com/
+  * 100 melhores fontes gratuitas de 2015 - http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
+  * Conjuntos de Fontes do Google http://100daysoffonts.com/
 
 #### Cores
 * Artigos
   * https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/
 * Ferramentas
   * https://color.adobe.com/
+  * https://coolors.co/
+  * http://colorhunt.co/
 
 #### Design Guidelines/ Style Guides
 * Artigo
@@ -87,3 +93,13 @@ http://www.creativebloq.com/design/create-style-guides-1012963
 * Evolução dos sites com o passar dos anos http://fabianburghardt.de/webolution/
 * Flat vs Realims http://www.flatvsrealism.com/
 * Skeymorphism http://gizmodo.com/skeuomorphism-will-never-go-away-and-thats-a-good-thin-1642089313
+
+#### Referências Gerais
+* http://www.site.uplabs.com/
+* http://www.awwwards.com/
+* http://uxdesign.cc/
+
+#### Imagens e Vídeos Gratuitos
+* http://allthefreestock.com/
+
+
