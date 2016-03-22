@@ -102,4 +102,45 @@ http://www.creativebloq.com/design/create-style-guides-1012963
 #### Imagens e Vídeos Gratuitos
 * http://allthefreestock.com/
 
+### WebDev Wireframe, Layout e Protótipo
+*Desafio 3*
 
+Agora que você já sabe os conteúdos e os estilos que o seu site usuará, é necessário especificar o wireframe do seu site. Ou seja, onde cada um dos elementos ficará. Há várias ferramentas para fazer isso, de photoshop à programas específicos, mas nenhuma é tão versátil e rápida quanto papel e caneta. 
+
+O objetivo do wireframe é ter uma noção da posição e organização dos elementos. Nesse momento não se preocupe com detalhes ou o estilo do seu site. A navegação e hierarquia dos elementos é a prioridade. Selecionamos alguns artigos interessantes sobre modelos de layouts, gatilhos para ações e usabilidade no final desse post. 
+
+É comum designers fazerem uma versão com maior fidelidade do wireframe no Sketch, Invision, Gimp ou Illustrator. Apesar dessa prática ser interessante, devemos tomar cuidado. A internet não é igual a uma foto. Ela muda de acordo com o navegador, o tamanho da tela, o estado dos elementos, etc. Focar muito em fidelidade no wireframe pode ser interessante para protótipar e mostrar para possíveis clientes ou grandes modificações em um app já existente mas no fundo você vai ter que recriar esse design em CSS. Então cuidado para não ter muito re-trabalho nesse processo. Jared Spool, um especialista em usabilidade, tem um ótimo lema quanto a isso: A fidelidade do seu prótipo deve ser igual a fidelidade do seu pensamento.
+
+Não subestime o poder da prototipação, ela pode te ajudar a testar e validar diversos pontos da sua aplicação e acelerar muito o tempo de desenvolvimento. Fazendo mais uma citação: "Se você não se sente envergonhado pela primeira versão do seu produto, você o lançou tarde demais." - Reid Hoffman (Fundador do Linkedin).
+
+A entrega do desafio é o wireframe do site do WebDev. Pense nos conteúdos que existirão no site, nos tipos de páginas(Página Principal, Contato, de um artigo, …) e os elementos que serão comum à todas elas (Logo, Header, Footer, Sidebar). A entrega pode ser tanto por papel ou utilizando alguma ferramenta online.
+
+Boa sorte e qualquer dúvida não hesite em perguntar! :rocket:
+
+### No momento de fazer o wireframe
+Considere dar uma olhada em alguns links dos seguintes tópicos:
+
+* Layout
+  * Artigos
+   *Z-Layout http://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28
+   *F-Layout http://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687
+
+
+* Bibliotecas e Exemplos
+  * http://collectui.com/
+  * Biblioteca da Zurb de Calls to Action e Modelos de páginas - http://zurb.com/triggers <3
+
+* Protótipos
+
+  * Artigos 
+   * How to make an app prototype in 3 days:
+   https://medium.com/@ankitstage/three-days-app-prototyping-challenge-844a0a7fe4fd#.vbi1whpl0
+   * Inspiração
+   * Vídeo da Adobe http://www.adobe.com/products/experience-design.m25f265376a08a2d47427a9b628993b08.socialshare.html?promoid=952G4XNR%26mv%3Dother&scid=social58834986#m25f265376a08a2d47427a9b628993b08
+  * Ferramentas
+   * Invision - www.invisionapp.com/
+   * Sketch - designcode.io/sketch
+   * Pop - https://popapp.in/
+   * Experience Design Adobe (Beta, apenas para Mac OS)
+   * Moldes de dispositivos mobile em papel para impressão - https://www.smashingmagazine.com/2012/09/free-download-ux-sketching-wireframing-templates-mobile/
+   * Essas e outras ferramentas: http://uxdesign.cc/ux-tools/
